@@ -1,16 +1,26 @@
-## Hi there 👋
+# Bonjour, je m’appelle Lionel 👋
 
-<!--
-**lionelp-dev/lionelp-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur web issu de plusieurs années en freelance. Aujourd’hui, je me spécialise dans le **développement d’applications full-stack**, je travaille principalement avec **Laravel, React et TypeScript**, tout en explorant l’intégration de fonctionnalités utilisant de l’**IA générative**.
 
-Here are some ideas to get you started:
+## Stack principale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Langages :** PHP, TypeScript, JavaScript
+* **Frontend :** React, Inertia.js, Zustand, TanStack Form, Zod, Tailwind CSS
+* **Backend et API :** Laravel, AdonisJS, Node.js, API REST
+* **IA générative :** Laravel AI SDK, LangChain, LangGraph
+* **Bases de données et ORM :** PostgreSQL, SQLite
+* **Tests et qualité :** Pest, PHPUnit, Vitest, React Testing Library, Playwright
+* **DevOps :** GitHub Actions, Docker
+* **Assistants de développement :** Codex, Claude Code
+
+## Projet phare
+
+### Mealo Planner
+
+Application full-stack de gestion des recettes, de planification de repas et de génération automatique des listes de courses. Elle comprend également des espaces collaboratifs et des fonctionnalités de génération assistée par IA.
+
+[Démonstration](https://mealo.lioneldev.fr/demo/LtMUhxAYiog) · [GitHub](https://github.com/lionelp-dev/Mealo)
+
+## Liens
+
+[Portfolio](https://lionelp-dev.github.io/#/portfolio) . [E-mail](mailto:lionelp.dev@gmail.com)
